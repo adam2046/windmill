@@ -10,6 +10,6 @@
     "@pulumi/awsx": "^1.0.4",
     "@pulumi/pulumi": "^3.0.0",
     "@pulumi/tailscale": "^0.12.2",
-    "@pulumi/tls": "^4.10.0"
+    "@pulumi/tls": "^4.11.1"
   }
 }
