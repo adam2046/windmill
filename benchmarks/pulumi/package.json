@@ -6,7 +6,7 @@
     "pulumi": "^0.0.1"
   },
   "dependencies": {
-    "@pulumi/aws": "^5.0.0",
+    "@pulumi/aws": "^5.43.0",
     "@pulumi/awsx": "^1.0.4",
     "@pulumi/pulumi": "^3.0.0",
     "@pulumi/tailscale": "^0.12.2",
