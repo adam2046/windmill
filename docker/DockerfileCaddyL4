@@ -5,6 +5,6 @@ RUN xcaddy build \
   --with github.com/RussellLuo/caddy-ext/layer4@ab1e18cfe426012af351a68463937ae2e934a2a1
 
 
-FROM caddy:2.8.4-alpine
+FROM caddy:2.11.1-alpine
 
 COPY --from=builder /usr/bin/caddy /usr/bin/caddy
