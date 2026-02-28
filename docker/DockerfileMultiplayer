@@ -1,4 +1,4 @@
-FROM node:slim
+FROM node:25.7.0-slim
 
 EXPOSE 3002
 ENV PORT 3002 
